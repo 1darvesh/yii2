@@ -15,7 +15,7 @@
 * of the guide for details.
 *
 * NOTE: this file must be saved in UTF-8 encoding.
-*
+*/
 return [
 	'{nFormatted} B' => '{nFormatted} B',
 	'{nFormatted} KB' => '{nFormatted} KB',
@@ -109,6 +109,6 @@ return [
 	'{attribute} must be repeated exactly.' => '{attribute} айнан бояд такрор шавад.',
 	'{attribute} must not be equal to "{compareValue}".' => '{attribute} бояд баробари "{compareValue}" набошад.',
 	'{attribute} should contain at least {min, number} {min, plural, one{character} other{characters}}.' => '{attribute} хади ақал {min, number} рамз дошта бошад.',
-	'{attribute} should contain at most {max, number} {max, plural, one{character} other{characters}}.' => '{attribute} хамаги {max, number} рамз дошат бошад.',
+	'{attribute} should contain at most {max, number} {max, plural, one{character} other{characters}}.' => '{attribute} хамаги {max, number} рамз дошта бошад.',
 	'{attribute} should contain {length, number} {length, plural, one{character} other{characters}}.' => '{attribute} бояд {length, number} рамз дошта бошад.',
 ];
