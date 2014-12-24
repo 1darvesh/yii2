@@ -59,7 +59,7 @@ return [
 	'Only files with these MIME types are allowed: {mimeTypes}.' => 'Фақат ин намуди файлҳо иҷозат аст: {mimeTypes}.',
 	'The format of {attribute} is invalid.' => 'Формати {attribute} ғалат буд.',	
 	'Please upload a file.' => 'Илтимос файл аплод кунед.',
-	'Showing <b>{begin, number}-{end, number}</b> of <b>{totalCount, number}</b> {totalCount, plural, one{item} other{items}}.' => 'Манзур <b>{begin, number}-{end, number}</b> аз <b>{totalCount, number}</b>.',
+	'Showing <b>{begin, number}-{end, number}</b> of <b>{totalCount, number}</b> {totalCount, plural, one{item} other{items}}.' => 'Манзури <b>{begin, number}-{end, number}</b> аз <b>{totalCount, number}</b>.',
 	'The file "{file}" is not an image.' => 'Файл "{file}" расм набуд.',
 	'The file "{file}" is too big. Its size cannot exceed {limit, number} {limit, plural, one{byte} other{bytes}}.' => 'Файл "{file}" калон аст. Аз {limit, number} набояд калонтар бошад.',
 	'The file "{file}" is too small. Its size cannot be smaller than {limit, number} {limit, plural, one{byte} other{bytes}}.' => 'Файл "{file}" хурд аст. Аз {limit, number} набояд хурдтар бошад.',
